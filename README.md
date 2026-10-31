@@ -2,7 +2,7 @@
 
 ### bachlor student from germany
 
-- 🔭 I'm currently working on **getting a degree**
+- 🔭 I'm currently working on **getting a academic degree**
 
 - 🌱 I'm currently learning **IT-security stuff**
 
